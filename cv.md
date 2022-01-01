@@ -48,7 +48,14 @@ console.log(test);
 ```
 ## Experience:
 ## Education:
-- Courses:
- - 
+- Courses: CS50 lectures, FreeCodeCamp ,HTML Academy
+
+## English:
+### B2
+
+
+
+
+  
 
 
