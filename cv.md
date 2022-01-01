@@ -32,11 +32,11 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ## Skills and Proficiency:
 
--HTML5, CSS3.
--JavaScript Basics.
--Git, GitHub.
--VS Code.
--Adobe Photoshop, Illustrator, AE.
+- HTML5, CSS3.
+- JavaScript Basics.
+- Git, GitHub.
+- VS Code.
+- Adobe Photoshop, Illustrator, AE.
 
 ---
 
