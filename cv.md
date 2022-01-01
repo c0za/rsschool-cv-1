@@ -41,6 +41,8 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 ---
  ## Code example:
  
->// This is a JS example
+'''
+// This is a JS example
 var test = "Hello";
 console.log(test);
+'''
