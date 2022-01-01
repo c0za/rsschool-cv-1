@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://zaman96.github.io/rsschool-cv/cv
