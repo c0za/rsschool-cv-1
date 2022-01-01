@@ -30,7 +30,7 @@ Although from childhood there was a book on Fortran in my home library, but I wa
 - Adobe Photoshop, Illustrator, AE.
 
 ---
- ## Code example:
+## Code example:
  
 ```
 // This is a JS example
